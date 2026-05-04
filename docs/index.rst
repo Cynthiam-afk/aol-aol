@@ -3,6 +3,12 @@ New Application (Instruction)— How to Download, Install, Reinstall & Uninstall
 =============================================================================================================================
 AOL Desktop Gold is an all-in-one desktop software that combines email services, browsing, and security features into a single platform. It is widely used by individuals who prefer a centralized interface for managing their online activities.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://golddesktophelp.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AOL Gold</a>
+   </div>
+
 This guide is designed for:
 
 - New users installing the application for the first time  
