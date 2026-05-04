@@ -11,7 +11,7 @@ AOL Desktop Gold is an all-in-one desktop software that combines email services,
 
 This guide is designed for:
 
-- New users installing the application for the first time  
+- New users installing the application for the first time
 - Existing members performing **install aol gold existing member** setup  
 - Users needing **aol desktop gold reinstall current member**  
 - Individuals who want to **uninstall aol desktop gold and reinstall** to fix issues  
